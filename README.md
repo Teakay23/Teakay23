@@ -24,10 +24,10 @@ I hold a BS in Computer Science from FAST NUCES (Summa Cum Laude) and have co-fi
 
 ### Research Interests
 
-- **Multimodal & Video-Language Models** — long-video understanding, temporal reasoning, time-aware encoders
-- **Self-Supervised Learning** — optimal transport, vector quantization, learning without labels
-- **Temporal Action Segmentation** — procedure learning, egocentric and skeleton-based video
-- **World Models & Agentic Systems** — planning and reasoning from how the world changes over time
+- **Multimodal & Video-Language Models:** long-video understanding, temporal reasoning, time-aware encoders
+- **Self-Supervised Learning:** optimal transport, vector quantization, learning without labels
+- **Temporal Action Segmentation:** procedure learning, egocentric and skeleton-based video
+- **World Models & Agentic Systems:** planning and reasoning from how the world changes over time
 
 ---
 
@@ -70,4 +70,4 @@ I hold a BS in Computer Science from FAST NUCES (Summa Cum Laude) and have co-fi
   <img src="https://github-readme-stats.vercel.app/api?username=Teakay23&show_icons=true&hide_border=true&count_private=true&title_color=1A73E8&icon_color=1A73E8" alt="GitHub Stats" height="150">
 </p>
 
-<p align="center"><sub>Bridging research and engineering — from idea to a system that runs and holds up.</sub></p>
+<p align="center"><sub>Bridging research and engineering, from idea to a system that runs and holds up.</sub></p>
