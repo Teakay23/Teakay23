@@ -16,7 +16,7 @@
 
 ### About
 
-I build systems that help machines understand long, real-world video. My work spans **video-language models**, **self-supervised learning**, and **temporal reasoning** — designing architectures, running large-scale distributed training, and pushing them past the state of the art. I came up through software engineering before research, so I treat the model and the systems around it as one problem: from the training loop to the dataset to the evaluation.
+I build systems that help machines understand long, real-world video. My work spans **video-language models**, **self-supervised learning**, and **temporal reasoning**, designing architectures, running large-scale distributed training, and pushing them past the state of the art. I came up through software engineering before research, so I treat the model and the systems around it as one problem: from the training loop to the dataset to the evaluation.
 
 I hold a BS in Computer Science from FAST NUCES (Summa Cum Laude) and have co-first-authored three papers at venues including **ACL** and **WACV**.
 
@@ -67,7 +67,10 @@ I hold a BS in Computer Science from FAST NUCES (Summa Cum Laude) and have co-fi
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teakay23&show_icons=true&hide_border=true&count_private=true&title_color=1A73E8&icon_color=1A73E8" alt="GitHub Stats" height="150">
+  <img src="https://komarev.com/ghpvc/?username=Teakay23&style=flat-square&color=1A73E8&label=Profile+Views" alt="Profile Views">
+  <a href="https://github.com/Teakay23?tab=followers"><img src="https://img.shields.io/github/followers/Teakay23?style=flat-square&color=1A73E8&label=Followers" alt="Followers"></a>
+  <img src="https://img.shields.io/badge/Focus-Multimodal_LLMs_&_Video-1A73E8?style=flat-square" alt="Focus">
 </p>
+
 
 <p align="center"><sub>Bridging research and engineering, from idea to a system that runs and holds up.</sub></p>
